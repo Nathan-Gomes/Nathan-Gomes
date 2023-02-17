@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻 Nathan Gomes
 As a Computer Science student and software developer, I have a passion for creating innovative solutions that improve people's lives. I've built various coding projects on my own and through collaboration with other individuals. My ultimate goal is to leverage my skills to develop software that simplifies and streamlines daily tasks, making life more efficient and enjoyable for all users.<br><br>
 
 
