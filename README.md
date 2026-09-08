@@ -1,11 +1,39 @@
-# 💻 Nathan Gomes
-As a Computer Science student and software developer, I have a passion for creating innovative solutions that improve people's lives. I've built various coding projects on my own and through collaboration with other individuals. My ultimate goal is to leverage my skills to develop software that simplifies and streamlines daily tasks, making life more efficient and enjoyable for all users.<br><br>
+# Nathan Gomes
 
-----
-## 🛠️ Languages & Tools:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nathan-Gomes&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+Computer Science graduate focused on turning real-world problems into practical technical solutions.
 
----
-[![](https://visitcount.itsvg.in/api?id=Nathan-Gomes&icon=0&color=8)](https://visitcount.itsvg.in)
+I build across software, data analysis, cloud infrastructure, and financial analytics. My strongest recent work is centered on making messy business data easier to trust, explain, and use for decisions.
+
+[Portfolio](https://www.nathan-gomes.com) | [LinkedIn](https://www.linkedin.com/in/nathangomes04) | [Email](mailto:nategomes0@gmail.com)
+
+## Current Focus
+
+- Financial analytics systems using Python, pandas, SQL, and repeatable reporting workflows
+- Cloud and automation projects with AWS, Docker, Terraform concepts, and CI/CD
+- Portfolio-ready tools that show data intake, validation, calculations, dashboards, and documentation
+- Interview preparation for software, cloud, data, and quantitative developer roles
+
+## Featured Projects
+
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [Quantitative Portfolio Research Pipeline](https://github.com/Nathan-Gomes/quant-portfolio-research) | Loads ETF market data, calculates risk and return metrics, runs constrained portfolio optimization, compares against a benchmark, and documents the research process | Python, pandas, SQL, MATLAB, HTML |
+| [Multifamily Portfolio Risk App](https://github.com/Nathan-Gomes/multifamily-risk-app) | Scenario-driven real estate risk dashboard for valuation, debt service, CMHC exposure, capital planning, and property-level watchlists | Python, FastAPI, SQLite, JavaScript |
+| [Cloud Cost Monitor](https://github.com/Nathan-Gomes/cloud-cost-monitor) | FinOps-style dashboard for cloud cost trends, idle resources, budget alerts, and rightsizing signals | Python, AWS APIs, Docker, Terraform concepts |
+| [Nathan Portfolio](https://github.com/Nathan-Gomes/nathan-portfolio) | Personal portfolio site presenting projects, reports, certifications, and resume material | HTML, CSS, JavaScript, AWS Amplify |
+| Invoice Review Platform | Private invoice intelligence tool for uploads, extraction, approval workflows, anomaly review, and monthly reporting | Python, FastAPI, data validation |
+
+## Technical Areas
+
+**Languages:** Python, TypeScript, Java, SQL, MATLAB, C
+
+**Data and analytics:** pandas, NumPy, SciPy, SQLite, financial calculations, reporting workflows
+
+**Cloud and DevOps:** AWS, Azure fundamentals, Docker, Terraform concepts, GitHub Actions
+
+**Frontend:** React, Next.js, HTML, CSS, JavaScript
+**Practices:** testing, documentation, version control, reproducible analysis, deployment workflows
+
+## What I am aiming for
+
+I am looking for junior roles where I can grow through real technical work: building reliable software, analyzing data, improving workflows, and learning from experienced engineering teams.
