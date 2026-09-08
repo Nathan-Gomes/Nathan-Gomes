@@ -1,0 +1,13 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="320" rx="24" fill="#0d1117"/>
+  <path d="M0 250H1200" stroke="#1f6f5b" stroke-opacity="0.35"/>
+  <path d="M0 82H1200" stroke="#30363d" stroke-opacity="0.75"/>
+  <path d="M740 -90C840 20 950 46 1200 34V320H740V-90Z" fill="#143d33" fill-opacity="0.45"/>
+  <path d="M905 0C980 74 1078 104 1200 92V320H850V0H905Z" fill="#1f6f5b" fill-opacity="0.25"/>
+  <circle cx="930" cy="160" r="92" stroke="#2ea043" stroke-opacity="0.22" stroke-width="18"/>
+  <circle cx="1015" cy="160" r="54" stroke="#58a6ff" stroke-opacity="0.18" stroke-width="14"/>
+  <text x="72" y="126" fill="#f0f6fc" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">Nathan Gomes</text>
+  <text x="76" y="176" fill="#8b949e" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500">Computer Science graduate turning real-world problems into practical technical solutions.</text>
+  <text x="76" y="234" fill="#7ee787" font-family="SFMono-Regular, Consolas, monospace" font-size="22" letter-spacing="2">PYTHON / SQL / MATLAB / AWS / FASTAPI</text>
+  <text x="76" y="270" fill="#c9d1d9" font-family="SFMono-Regular, Consolas, monospace" font-size="18">software  |  data  |  cloud  |  financial analytics</text>
+</svg>

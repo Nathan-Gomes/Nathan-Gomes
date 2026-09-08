@@ -1,3 +1,5 @@
+![Nathan Gomes profile banner](./assets/github-profile-banner.svg)
+
 # Nathan Gomes
 
 Computer Science graduate focused on turning real-world problems into practical technical solutions.
@@ -32,6 +34,7 @@ I build across software, data analysis, cloud infrastructure, and financial anal
 **Cloud and DevOps:** AWS, Azure fundamentals, Docker, Terraform concepts, GitHub Actions
 
 **Frontend:** React, Next.js, HTML, CSS, JavaScript
+
 **Practices:** testing, documentation, version control, reproducible analysis, deployment workflows
 
 ## What I am aiming for
