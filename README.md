@@ -30,6 +30,7 @@ I build software and analytics tools that make messy business data easier to tru
 
 | Project | Why it matters | Links |
 |---|---|---|
+| **Quantitative Investment Analytics ETL** | Reproducible Python, pandas, and SQL pipeline for Canadian equity portfolio analytics, transaction-cost simulation, scenario risk analysis, and volatility forecasting | Private repository / [Case study](https://www.nathan-gomes.com/Project-Investment-Analytics.dc.html) / [Interactive report](https://www.nathan-gomes.com/investment-analytics/output/report.html) |
 | **Quantitative Portfolio Research Pipeline** | Turns ETF price history into tested portfolio optimization research with returns, volatility, Sharpe ratio, drawdown, VaR, SQL analysis, MATLAB comparison, and walk-forward backtesting | [Repository](https://github.com/Nathan-Gomes/quant-portfolio-research) / [Live report](https://www.nathan-gomes.com/quant-portfolio-report.html) |
 | **Multifamily Portfolio Risk App** | Scenario-driven dashboard for property valuation, NOI, DSCR, LTV, CMHC debt exposure, risk watchlists, and capital allocation | [Repository](https://github.com/Nathan-Gomes/multifamily-risk-app) / [Project page](https://www.nathan-gomes.com/Project-Multifamily-Risk-Engine.dc.html) |
 | **Cloud Cost Monitor** | Read-only FinOps dashboard for finding cloud waste, idle resources, budget pressure, and rightsizing opportunities | [Repository](https://github.com/Nathan-Gomes/cloud-cost-monitor) / [Project page](https://www.nathan-gomes.com/Project-Cloud-Cost-Monitor.dc.html) |
