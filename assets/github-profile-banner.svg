@@ -8,6 +8,6 @@
   <circle cx="1015" cy="160" r="54" stroke="#58a6ff" stroke-opacity="0.18" stroke-width="14"/>
   <text x="72" y="126" fill="#f0f6fc" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">Nathan Gomes</text>
   <text x="76" y="176" fill="#8b949e" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500">Computer Science graduate turning real-world problems into practical technical solutions.</text>
-  <text x="76" y="234" fill="#7ee787" font-family="SFMono-Regular, Consolas, monospace" font-size="22" letter-spacing="2">PYTHON / SQL / MATLAB / AWS / FASTAPI</text>
-  <text x="76" y="270" fill="#c9d1d9" font-family="SFMono-Regular, Consolas, monospace" font-size="18">software  |  data  |  cloud  |  financial analytics</text>
+  <text x="76" y="234" fill="#7ee787" font-family="SFMono-Regular, Consolas, monospace" font-size="22" letter-spacing="2">PYTHON / PANDAS / SQL / MATLAB</text>
+  <text x="76" y="270" fill="#c9d1d9" font-family="SFMono-Regular, Consolas, monospace" font-size="18">software  |  data  |  mathematics  |  automation</text>
 </svg>

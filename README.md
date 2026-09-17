@@ -2,9 +2,9 @@
 
 # Nathan Gomes
 
-Computer Science graduate focused on turning real-world problems into practical technical solutions.
+Aspiring software developer with a passion for data, mathematics, and automation.
 
-I build software and analytics tools that make messy business data easier to trust, explain, and use for decisions. My recent projects focus on financial analysis, portfolio risk, cloud cost visibility, and practical automation.
+I build software and analytics tools that make messy business data easier to trust, explain, and use for decisions. My projects combine data analysis, financial mathematics, and practical automation.
 
 [Portfolio](https://www.nathan-gomes.com) | [LinkedIn](https://www.linkedin.com/in/nathangomes04) | [Email](mailto:nategomes0@gmail.com)
 
@@ -23,7 +23,7 @@ I build software and analytics tools that make messy business data easier to tru
 
 - Financial analytics systems using Python, pandas, SQL, and repeatable reporting workflows
 - Portfolio risk tools that combine business assumptions, scenarios, and clear outputs
-- Cloud and automation projects with AWS, Docker, Terraform concepts, and CI/CD practices
+- Automation and delivery projects using Python, APIs, AWS, Docker, and CI/CD practices
 - Project documentation that explains not just what I built, but how the system should be reviewed
 
 ## Featured Projects
@@ -43,9 +43,9 @@ I build software and analytics tools that make messy business data easier to tru
 |---|---|
 | Data analysis | Python, pandas, NumPy, SciPy, SQL, SQLite, reproducible notebooks |
 | Financial analytics | Portfolio optimization, risk metrics, scenario analysis, cash flow, DSCR, LTV, cap rates |
-| Cloud and DevOps | AWS, Azure fundamentals, Docker, GitHub Actions, Terraform concepts, deployment workflows |
+| Automation and delivery | APIs, AWS, Docker, GitHub Actions, Terraform concepts, deployment workflows |
 | Software development | FastAPI, REST APIs, JavaScript, TypeScript, React, Next.js, automated tests |
 
 ## What I am aiming for
 
-I am looking for junior roles where I can grow through real technical work: building reliable software, analyzing data, improving workflows, and learning from experienced engineering teams.
+I am looking for junior roles where I can grow through real technical work in software, data, mathematics, and automation while learning from experienced engineering and analytics teams.
