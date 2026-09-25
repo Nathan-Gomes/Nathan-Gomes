@@ -30,11 +30,12 @@ I build software and analytics tools that make messy business data easier to tru
 
 | Project | Why it matters | Links |
 |---|---|---|
-| **Quantitative Investment Analytics ETL** | Reproducible Python, pandas, and SQL pipeline for Canadian equity portfolio analytics, transaction-cost simulation, scenario risk analysis, and volatility forecasting | Private repository / [Case study](https://www.nathan-gomes.com/Project-Investment-Analytics.dc.html) / [Interactive report](https://www.nathan-gomes.com/investment-analytics/output/report.html) |
+| **AlphaCast** | Machine-learning equity ranking workstation that compares six models on embargoed walk-forward folds, builds cost-aware portfolios, and monitors signal health | [Repository](https://github.com/Nathan-Gomes/alphacast) / [Live app](https://alphacast.onrender.com) / [Case study](https://www.nathan-gomes.com/Project-AlphaCast.dc.html) |
+| **Strata: Quantitative Investment Analytics** | Portfolio construction and risk platform with walk-forward optimization, factor risk models, transaction costs, and block-bootstrap scenarios | [Repository](https://github.com/Nathan-Gomes/quant-investment-analytics-etl) / [Live app](https://nathan-portfolio-lab.onrender.com/) / [Case study](https://www.nathan-gomes.com/Project-Investment-Analytics.dc.html) |
 | **Quantitative Portfolio Research Pipeline** | Turns ETF price history into tested portfolio optimization research with returns, volatility, Sharpe ratio, drawdown, VaR, SQL analysis, MATLAB comparison, and walk-forward backtesting | [Repository](https://github.com/Nathan-Gomes/quant-portfolio-research) / [Live report](https://www.nathan-gomes.com/quant-portfolio-report.html) |
 | **Multifamily Portfolio Risk App** | Scenario-driven dashboard for property valuation, NOI, DSCR, LTV, CMHC debt exposure, risk watchlists, and capital allocation | [Repository](https://github.com/Nathan-Gomes/multifamily-risk-app) / [Project page](https://www.nathan-gomes.com/Project-Multifamily-Risk-Engine.dc.html) |
 | **Cloud Cost Monitor** | Read-only FinOps dashboard for finding cloud waste, idle resources, budget pressure, and rightsizing opportunities | [Repository](https://github.com/Nathan-Gomes/cloud-cost-monitor) / [Project page](https://www.nathan-gomes.com/Project-Cloud-Cost-Monitor.dc.html) |
-| **Invoice Review Platform** | Private invoice intelligence platform for document intake, extraction review, approval workflows, anomaly detection, and monthly reporting | Private repository |
+| **Invoice Review Platform** | Invoice intelligence platform for document intake, extraction review, approval workflows, anomaly detection, and monthly reporting | [Repository](https://github.com/Nathan-Gomes/invoice-review-platform) / [Project page](https://www.nathan-gomes.com/Project-Invoice-App.dc.html) |
 | **Agentic AI Economics Research** | Research project comparing token-based AI operating costs with human labour costs across digital workflows | [Repository](https://github.com/Nathan-Gomes/The-Economics-of-Agentic-AI-Token-Cost-Human-Labour-and-the-Future-of-Work) / [Project page](https://www.nathan-gomes.com/Project-Agentic-AI-Economics.dc.html) |
 
 ## Technical Areas
@@ -42,6 +43,7 @@ I build software and analytics tools that make messy business data easier to tru
 | Area | Tools and concepts |
 |---|---|
 | Data analysis | Python, pandas, NumPy, SciPy, SQL, SQLite, reproducible notebooks |
+| Machine learning research | scikit-learn, cross-sectional ranking, walk-forward validation, model comparison, signal diagnostics |
 | Financial analytics | Portfolio optimization, risk metrics, scenario analysis, cash flow, DSCR, LTV, cap rates |
 | Automation and delivery | APIs, AWS, Docker, GitHub Actions, Terraform concepts, deployment workflows |
 | Software development | FastAPI, REST APIs, JavaScript, TypeScript, React, Next.js, automated tests |
