@@ -13,6 +13,7 @@ I build software and analytics tools that make messy business data easier to tru
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
 ![pandas](https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=7ee787)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479a1)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0d1117?style=for-the-badge&logo=matrix&logoColor=ffb86b)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=2ea043)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=ff9900)
@@ -32,6 +33,8 @@ I build software and analytics tools that make messy business data easier to tru
 |---|---|---|
 | **AlphaCast** | Machine-learning equity ranking workstation that compares six models on embargoed walk-forward folds, builds cost-aware portfolios, and monitors signal health | [Repository](https://github.com/Nathan-Gomes/alphacast) / [Live app](https://alphacast.onrender.com) / [Case study](https://www.nathan-gomes.com/Project-AlphaCast.dc.html) |
 | **Strata: Quantitative Investment Analytics** | Portfolio construction and risk platform with walk-forward optimization, factor risk models, transaction costs, and block-bootstrap scenarios | [Repository](https://github.com/Nathan-Gomes/quant-investment-analytics-etl) / [Live app](https://nathan-portfolio-lab.onrender.com/) / [Case study](https://www.nathan-gomes.com/Project-Investment-Analytics.dc.html) |
+| **PartnerSignal** | Partner prospecting and qualification workspace with evidence-grounded AI extraction, stage gates, specialist routing, and human-reviewed outreach | [Repository](https://github.com/Nathan-Gomes/partner-signal) / [Live app](https://partner-signal-arm6.onrender.com) / [Case study](https://www.nathan-gomes.com/Project-PartnerSignal.dc.html) |
+| **IT Service Ops & SLA Analytics** | Service-desk analytics platform with a data-quality gate, MySQL/SQLite reporting views, SLA breach analysis, and Excel and Power BI outputs | [Repository](https://github.com/Nathan-Gomes/it-service-ops-sla-analytics) / [Live app](https://service-ops-sla.onrender.com) / [Case study](https://www.nathan-gomes.com/Project-Service-Ops-SLA.dc.html) |
 | **Quantitative Portfolio Research Pipeline** | Turns ETF price history into tested portfolio optimization research with returns, volatility, Sharpe ratio, drawdown, VaR, SQL analysis, MATLAB comparison, and walk-forward backtesting | [Repository](https://github.com/Nathan-Gomes/quant-portfolio-research) / [Live report](https://www.nathan-gomes.com/quant-portfolio-report.html) |
 | **Multifamily Portfolio Risk App** | Scenario-driven dashboard for property valuation, NOI, DSCR, LTV, CMHC debt exposure, risk watchlists, and capital allocation | [Repository](https://github.com/Nathan-Gomes/multifamily-risk-app) / [Project page](https://www.nathan-gomes.com/Project-Multifamily-Risk-Engine.dc.html) |
 | **Cloud Cost Monitor** | Read-only FinOps dashboard for finding cloud waste, idle resources, budget pressure, and rightsizing opportunities | [Repository](https://github.com/Nathan-Gomes/cloud-cost-monitor) / [Project page](https://www.nathan-gomes.com/Project-Cloud-Cost-Monitor.dc.html) |
@@ -45,6 +48,8 @@ I build software and analytics tools that make messy business data easier to tru
 | Data analysis | Python, pandas, NumPy, SciPy, SQL, SQLite, reproducible notebooks |
 | Machine learning research | scikit-learn, cross-sectional ranking, walk-forward validation, model comparison, signal diagnostics |
 | Financial analytics | Portfolio optimization, risk metrics, scenario analysis, cash flow, DSCR, LTV, cap rates |
+| Operational analytics | Data-quality gates, SLA measurement, MySQL, Excel reporting, Power BI models |
+| Applied AI workflows | Structured extraction, evidence-grounded outputs, human review, deterministic fallbacks |
 | Automation and delivery | APIs, AWS, Docker, GitHub Actions, Terraform concepts, deployment workflows |
 | Software development | FastAPI, REST APIs, JavaScript, TypeScript, React, Next.js, automated tests |
 
